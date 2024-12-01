@@ -1,0 +1,154 @@
+@font-face {
+    font-family: 'OPTIAmway';
+    src:url('OPTIAmway.ttf.woff') format('woff'),
+        url('OPTIAmway.ttf.svg#OPTIAmway') format('svg'),
+        url('OPTIAmway.ttf.eot'),
+        url('OPTIAmway.ttf.eot?#iefix') format('embedded-opentype'); 
+        font-weight: normal;
+        font-style: normal;
+}
+
+:root {
+    font-family: Inter, sans-serif;
+    font-feature-settings: 'liga' 1, 'calt' 1; /* fix for Chrome */
+  }
+  @supports (font-variation-settings: normal) {
+    :root { font-family: InterVariable, sans-serif; }
+  }
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Inter;
+    font-size: 20px;
+}
+
+p{
+    font-size: 24px;
+}
+
+a {
+    text-decoration:none;
+    color: black;
+  }
+
+h1{
+    font-size: 60px;
+    font-weight: 400;
+    margin-bottom: 38px;
+}
+
+h2{
+    font-size: 48px;
+    font-weight: 400;
+}
+
+h3{
+    max-width: 728px;
+    font-size: 28px;
+    font-weight: 200;
+}
+
+.bodyBack{
+    background-image: url(./image/814ec822bfba172497a84d0a539683a1.png);
+    background-repeat: no-repeat;
+    background-size: 100% 220%;
+}
+
+header{
+    height: 80px;
+    border-bottom: 2px solid black;
+    margin-bottom: 89px;
+}
+
+.main{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    margin-left: 43px;
+    margin-right: 43px;
+    column-gap: 98px;
+}
+
+.mainFirst{
+    display: flex;
+    margin-left: 40px;
+    margin-right: 40px;
+    column-gap: 67px;
+}
+
+.buttonBox{
+    display: flex;
+    margin-left: 43px;
+    margin-right: 64px;
+    justify-content: space-between;
+}
+
+.buttonBoxFirst{
+    display: flex;
+    margin-left: 43px;
+    margin-right: 64px;
+    justify-content: flex-end;
+    gap: 75px;
+}
+
+button{
+    font-family: 'OPTIAmway';
+    border: none;
+    background: none;
+    font-size: 36px;
+    font-weight: 400;
+}
+
+.headerLink{
+    display: flex;
+    height: 80px;
+    align-items: center;
+    font-weight: 700;
+}
+
+.nameMounth{
+    display: flex;
+    justify-content: center;
+}
+
+.nameMounthFirst{
+    font-size: 36px;
+    display: block;
+}
+
+.calendar{
+    display: flex;
+    justify-content: center;
+}
+
+.calendarBox{
+    display: grid;
+    row-gap: 34px;
+    column-gap: 43px;
+    grid-template-columns: repeat(6, 1fr);
+    width: 490px;
+}
+
+.imageFirst{
+    max-width: 517px;
+    max-height: 720px;
+}
+
+.titleFirst{
+    font-size: 48px;
+    margin-bottom: 0;
+}
+
+.textCentr{
+    display: flex;
+    justify-content: center;
+}
+
+.link{
+
+    text-decoration: underline;
+}
+
+.hide{
+    display: none;
+}

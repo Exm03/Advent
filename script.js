@@ -25,7 +25,7 @@ function render() {
     body.classList.remove('bodyBack')
     body.innerHTML = `    <header>
         <div class="buttonBoxFirst">
-            <a href="./inner.html"><p  class="headerLink">STRONA GŁÓWNA</p></a>
+            <a href="./index.html"><p  class="headerLink">STRONA GŁÓWNA</p></a>
             <a href="./kontakt"><p class="headerLink hide">KONTAKT</p></a>
             
         </div>

@@ -49,6 +49,10 @@ h3{
     font-weight: 200;
 }
 
+p{
+    text-align: justify;
+}
+
 .bodyBack{
     background-image: url(./image/814ec822bfba172497a84d0a539683a1.png);
     background-repeat: no-repeat;
@@ -112,8 +116,11 @@ button{
 }
 
 .nameMounthFirst{
+    font-family: 'OPTIAmway';
+    width: 100%;
     font-size: 36px;
     display: block;
+    text-align: center;
 }
 
 .calendar{
@@ -124,7 +131,7 @@ button{
 .calendarBox{
     display: grid;
     row-gap: 34px;
-    column-gap: 43px;
+    column-gap: 37px;
     grid-template-columns: repeat(6, 1fr);
     width: 490px;
 }
@@ -135,6 +142,7 @@ button{
 }
 
 .titleFirst{
+    font-family: 'OPTIAmway';
     font-size: 48px;
     margin-bottom: 0;
 }
@@ -152,3 +160,23 @@ button{
 .hide{
     display: none;
 }
+
+.calendarBtn{
+    width: 60px;
+    height: 60px;
+
+    &:hover{
+        border-radius: 50%;
+        background-color: #AE445A;
+        box-shadow: 5px 0px 30px #AE445A;
+        transition: all 0.5s;
+    }
+
+    &:active{
+        background-color: #E8BCB9;
+        box-shadow: 5px 0px 30px #E8BCB9;
+        opacity: 76%;
+        transition: all 0.01s;
+    }
+}
+

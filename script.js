@@ -73,8 +73,8 @@ function render(numb) {
                 Zimowe przesądy miały również wymiar ochronny – wierzono, że aby uniknąć nieszczęścia, należy np. unikać wchodzenia do domu z pustymi rękami w Nowy Rok lub upewnić się, że pierwszy gość w tym dniu to mężczyzna.
                 <br>
                 <br>
-            Sprawdzić rozumienie tekstu można <a class="link" href="https://docs.google.com/forms/d/e/1FAIpQLSfkAAnjLyYg2IhYoumnC4M035j6KVqkAmc2NEdOZVSTUyoWrA/viewform">tutaj</a>,<br> 
-            a nauczyć się nowych słów <a class="link" href="https://quizlet.com/ch/977935497/112-historia-kalendarza-adwentowego-flash-cards/">tutaj</a>.</p></div>
+            Sprawdzić rozumienie tekstu można <a class="link" href="https://docs.google.com/forms/d/17tK_3dQMdvqvVdv70NmI6KOPyRxbXemObUwN2DZpgJY/edit?usp=drivesdk">tutaj</a>,<br> 
+            a nauczyć się nowych słów <a class="link" href="https://quizlet.com/978234267/212-flash-cards/?x=1jqU&i=235rwg">tutaj</a>.</p></div>
         <div><img class="imageFirst" src="./image/2Day.png" alt=""></div>
     </section>`
     }

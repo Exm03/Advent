@@ -176,4 +176,9 @@ button {
   box-shadow: 5px 0px 30px #E8BCB9;
   opacity: 76%;
   transition: all 0.01s;
+}
+
+.dayIamge {
+  display: flex;
+  align-items: end;
 }/*# sourceMappingURL=style.css.map */

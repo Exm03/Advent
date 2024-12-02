@@ -32,7 +32,7 @@ function render(numb) {
         </div>
     </header>
     <section class=" mainFirst">
-        <div><img class="imageFirst" src="./image/1Day.png" alt=""></div>
+        <div class="dayIamge"><img class="imageFirst" src="./image/1Day.png" alt=""></div>
         <div><h1 class="titleFirst textCentr">KTÓRY   DZIŚ   JEST?</h1>
             <p class="textCentr">1 grudnia — pierwszy grudnia</p>
             <br>
@@ -55,7 +55,7 @@ function render(numb) {
         body.innerHTML= `<header>
         <div class="buttonBoxFirst">
             <a href="./index.html"><p  class="headerLink">STRONA GŁÓWNA</p></a>
-            <a href="./kontakt"><p class="headerLink">KONTAKT</p></a>
+            <a href="./kontakt"><p class="headerLink hide">KONTAKT</p></a>
             
         </div>
     </header>
@@ -75,7 +75,33 @@ function render(numb) {
                 <br>
             Sprawdzić rozumienie tekstu można <a class="link" href="https://docs.google.com/forms/d/17tK_3dQMdvqvVdv70NmI6KOPyRxbXemObUwN2DZpgJY/edit?usp=drivesdk">tutaj</a>,<br> 
             a nauczyć się nowych słów <a class="link" href="https://quizlet.com/978234267/212-flash-cards/?x=1jqU&i=235rwg">tutaj</a>.</p></div>
-        <div><img class="imageFirst" src="./image/2Day.png" alt=""></div>
+        <div class="dayIamge"><img class="imageFirst" src="./image/2Day.png" alt=""></div>
+    </section>`
+    } if (numb == 3) {
+        body.innerHTML= `<header>
+        <div class="buttonBoxFirst">
+            <a href="./index.html"><p  class="headerLink">STRONA GŁÓWNA</p></a>
+            <a href="./kontakt"><p class="headerLink hide">KONTAKT</p></a>
+            
+        </div>
+    </header>
+    <section class=" mainFirst">
+        
+        <div><h1 class="titleFirst textCentr">KTÓRY   DZIŚ   JEST?</h1>
+            <p class="textCentr">3 grudnia — trzeci grudnia</p>
+            <br>
+            <br>
+            <h2 class="nameMounth nameMounthFirst">ZIMA W POLSCE: MROŹNE PIĘKNO NATURY</h2>
+            <br>
+            <p>Zima w polskiej tradycji ludowej jest czasem pełnym magii i wierzeń. Wiele dawnych przesądów związanych z zimą dotyczyło przewidywania pogody, obfitości plonów czy pomyślności w nadchodzącym roku. Na przykład obserwowanie pogody w dzień Wigilii miało wskazywać, jaka będzie pogoda w nowym roku. Uważano także, że gdy podczas Bożego Narodzenia pada śnieg, rok będzie obfity w plony. Innym popularnym wierzeniem było to, że wiatr w Nowy Rok zwiastuje kierunek, z którego przyjdą zmiany w życiu.
+                <br>
+                <br>
+                Zimowe przesądy miały również wymiar ochronny – wierzono, że aby uniknąć nieszczęścia, należy np. unikać wchodzenia do domu z pustymi rękami w Nowy Rok lub upewnić się, że pierwszy gość w tym dniu to mężczyzna.
+                <br>
+                <br>
+            Sprawdzić rozumienie tekstu można <a class="link" href="https://docs.google.com/forms/d/1bztVkEWeQyMmAW5CrSj02vCp7DvGEYhLBnhSPMq_lZc/edit">tutaj</a>,<br> 
+            a nauczyć się nowych słów <a class="link" href="https://quizlet.com/978712898/312-flash-cards/?i=235rwg&x=1qqt">tutaj</a>.</p></div>
+        <div class="dayIamge"><img class="imageFirst" src="./image/3Day.png" alt=""></div>
     </section>`
     }
     

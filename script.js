@@ -93,10 +93,16 @@ function render(numb) {
             <br>
             <h2 class="nameMounth nameMounthFirst">ZIMA W POLSCE: MROŹNE PIĘKNO NATURY</h2>
             <br>
-            <p>Zima w polskiej tradycji ludowej jest czasem pełnym magii i wierzeń. Wiele dawnych przesądów związanych z zimą dotyczyło przewidywania pogody, obfitości plonów czy pomyślności w nadchodzącym roku. Na przykład obserwowanie pogody w dzień Wigilii miało wskazywać, jaka będzie pogoda w nowym roku. Uważano także, że gdy podczas Bożego Narodzenia pada śnieg, rok będzie obfity w plony. Innym popularnym wierzeniem było to, że wiatr w Nowy Rok zwiastuje kierunek, z którego przyjdą zmiany w życiu.
+            <p>Pogoda w Polsce różni się w zależności od regionu.
                 <br>
                 <br>
-                Zimowe przesądy miały również wymiar ochronny – wierzono, że aby uniknąć nieszczęścia, należy np. unikać wchodzenia do domu z pustymi rękami w Nowy Rok lub upewnić się, że pierwszy gość w tym dniu to mężczyzna.
+                Nad morzem zimy są łagodniejsze – temperatury rzadko spadają poniżej zera, częste są deszcze i silne wiatry. W centralnej i wschodniej Polsce zima jest mroźniejsza, z temperaturami do -15°C i częstymi opadami śniegu, które utrudniają komunikację.
+                <br>
+                <br>
+                W górach panują idealne warunki do sportów zimowych – gruba warstwa śniegu i niskie temperatury utrzymują się przez kilka miesięcy.
+                <br>
+                <br>
+                Częste zjawiska to śnieg, mgła, gołoledź i mroźne wiatry, które potęgują uczucie zimna. Mimo trudnych warunków zima w Polsce ma swój urok dzięki ośnieżonym krajobrazom i świątecznej atmosferze.
                 <br>
                 <br>
             Sprawdzić rozumienie tekstu można <a class="link" href="https://docs.google.com/forms/d/1bztVkEWeQyMmAW5CrSj02vCp7DvGEYhLBnhSPMq_lZc/edit">tutaj</a>,<br> 

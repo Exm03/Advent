@@ -109,6 +109,28 @@ function render(numb) {
             a nauczyć się nowych słów <a class="link" href="https://quizlet.com/978712898/312-flash-cards/?i=235rwg&x=1qqt">tutaj</a>.</p></div>
         <div class="dayIamge"><img class="imageFirst" src="./image/3Day.png" alt=""></div>
     </section>`
+    } if (numb == 4) {
+        body.innerHTML = `    <header>
+        <div class="buttonBoxFirst">
+            <a href="./index.html"><p  class="headerLink">STRONA GŁÓWNA</p></a>
+            <a href="./kontakt"><p class="headerLink hide">KONTAKT</p></a>
+            
+        </div>
+    </header>
+    <section class=" mainFirst">
+        <div class="dayIamge"><img class="imageFirst" src="./image/4Day.png" alt=""></div>
+        <div><h1 class="titleFirst textCentr">KTÓRY   DZIŚ   JEST?</h1>
+            <p class="textCentr">1 grudnia — pierwszy grudnia</p>
+            <br>
+            <br>
+            <h2 class="nameMounth nameMounthFirst">HISTORIA    KALENDARZA  ADWENTOWEGO</h2>
+            <br>
+            <p>
+            Sprawdzić rozumienie tekstu można <a class="link" href="https://docs.google.com/forms/d/e/1FAIpQLSfkAAnjLyYg2IhYoumnC4M035j6KVqkAmc2NEdOZVSTUyoWrA/viewform">tutaj</a>,<br> 
+            a nauczyć się nowych słów <a class="link" href="https://quizlet.com/ch/977935497/112-historia-kalendarza-adwentowego-flash-cards/">tutaj</a>.</p></div>
+        
+    </section>
+        `
     }
     
     

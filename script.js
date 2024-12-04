@@ -120,10 +120,10 @@ function render(numb) {
     <section class=" mainFirst">
         <div class="dayIamge"><img class="imageFirst" src="./image/4Day.png" alt=""></div>
         <div><h1 class="titleFirst textCentr">KTÓRY   DZIŚ   JEST?</h1>
-            <p class="textCentr">1 grudnia — pierwszy grudnia</p>
+            <p class="textCentr">4 grudnia — czwarty grudnia</p>
             <br>
             <br>
-            <h2 class="nameMounth nameMounthFirst">HISTORIA    KALENDARZA  ADWENTOWEGO</h2>
+            <h2 class="nameMounth nameMounthFirst">CIEPŁO ZIMOWYCH UBRAŃ: JAK SIĘ UBRAĆ, BY NIE ZMARZNĄĆ?</h2>
             <br>
             <p> Zimą odpowiednia odzież jest kluczowa, aby chronić się przed mrozem. Podstawą stroju jest warstwowe ubieranie się: bielizna termiczna, koszula lub bluza, sweter, a na wierzch kurtka zimowa – najlepiej wiatro- i wodoodporna.
             <br>

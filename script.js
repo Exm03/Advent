@@ -125,7 +125,15 @@ function render(numb) {
             <br>
             <h2 class="nameMounth nameMounthFirst">HISTORIA    KALENDARZA  ADWENTOWEGO</h2>
             <br>
-            <p> текст который добавить
+            <p> Zimą odpowiednia odzież jest kluczowa, aby chronić się przed mrozem. Podstawą stroju jest warstwowe ubieranie się: bielizna termiczna, koszula lub bluza, sweter, a na wierzch kurtka zimowa – najlepiej wiatro- i wodoodporna.
+            <br>
+            <br>
+            Nie można zapominać o spodniach zimowych, które chronią przed zimnem i wilgocią. Na nogach powinny znaleźć się solidne buty zimowe z grubą podeszwą, a na głowie ciepła czapka. Szyję osłaniamy szalikiem, a dłonie rękawiczkami. Ocieplane skarpetki to dodatkowy sposób na ciepło w mroźne dni.
+            <br>
+            <br>
+            Dzięki odpowiedniemu ubiorowi, takim jak kurtki, spodnie czy dodatki, nawet najzimniejsza pogoda nie będzie przeszkodą!
+            <br>
+            <br>
             Sprawdzić rozumienie tekstu można <a class="link" href="https://docs.google.com/forms/d/e/1FAIpQLSfkAAnjLyYg2IhYoumnC4M035j6KVqkAmc2NEdOZVSTUyoWrA/viewform">tutaj</a>,<br> 
             a nauczyć się nowych słów <a class="link" href="https://quizlet.com/ch/977935497/112-historia-kalendarza-adwentowego-flash-cards/">tutaj</a>.</p></div>
         

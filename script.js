@@ -135,7 +135,7 @@ function render(numb) {
             Dzięki odpowiedniemu ubiorowi, takim jak kurtki, spodnie czy dodatki, nawet najzimniejsza pogoda nie będzie przeszkodą!
             <br>
             <br>
-            Sprawdzić rozumienie tekstu można <a class="link" href="https://docs.google.com/forms/d/e/1FAIpQLSfkAAnjLyYg2IhYoumnC4M035j6KVqkAmc2NEdOZVSTUyoWrA/viewform">tutaj</a>,<br> 
+            Sprawdzić rozumienie tekstu można <a class="link" href="https://docs.google.com/forms/d/e/1FAIpQLSekpYwGpckN-4Xmp9pgOzwcbaYT6FrC8B_oUaQhDGGm1kLLCQ/viewform">tutaj</a>,<br> 
             a nauczyć się nowych słów <a class="link" href="https://quizlet.com/ch/977935497/112-historia-kalendarza-adwentowego-flash-cards/">tutaj</a>.</p></div>
         
     </section>

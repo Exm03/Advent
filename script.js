@@ -123,7 +123,7 @@ function render(numb) {
             <p class="textCentr">4 grudnia — czwarty grudnia</p>
             <br>
             <br>
-            <h2 class="nameMounth nameMounthFirst">CIEPŁO ZIMOWYCH UBRAŃ: 
+            <h2 class="nameMounth nameMounthFirst">CIEPŁO ZIMOWYCH UBRAŃ: <br>
             JAK SIĘ UBRAĆ, BY NIE ZMARZNĄĆ?</h2>
             <br>
             <p> Zimą odpowiednia odzież jest kluczowa, aby chronić się przed mrozem. Podstawą stroju jest warstwowe ubieranie się: bielizna termiczna, koszula lub bluza, sweter, a na wierzch kurtka zimowa – najlepiej wiatro- i wodoodporna.

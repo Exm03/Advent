@@ -138,7 +138,7 @@ function render(numb) {
             Sprawdzić rozumienie tekstu można <a class="link" href="https://docs.google.com/forms/d/e/1FAIpQLSekpYwGpckN-4Xmp9pgOzwcbaYT6FrC8B_oUaQhDGGm1kLLCQ/viewform">tutaj</a>,<br> 
             a nauczyć się nowych słów <a class="link" href="https://quizlet.com/ch/977935497/112-historia-kalendarza-adwentowego-flash-cards/">tutaj</a>.</p></div>
         
-    </section>
+    </section>`
     } if (numb == 5) {
         body.innerHTML= `<header>
         <div class="buttonBoxFirst">
@@ -170,7 +170,7 @@ function render(numb) {
             Sprawdzić rozumienie tekstu można <a class="link" href="https://docs.google.com/forms/d/1bztVkEWeQyMmAW5CrSj02vCp7DvGEYhLBnhSPMq_lZc/edit">tutaj</a>,<br> 
             a nauczyć się nowych słów <a class="link" href="https://quizlet.com/978712898/312-flash-cards/?i=235rwg&x=1qqt">tutaj</a>.</p></div>
         <div class="dayIamge"><img class="imageFirst" src="./image/3Day.png" alt=""></div>
-    </section>
+    </section>`
     } if (numb == 6) {
         body.innerHTML = `    <header>
         <div class="buttonBoxFirst">
@@ -200,7 +200,7 @@ function render(numb) {
             Sprawdzić rozumienie tekstu można <a class="link" href="https://docs.google.com/forms/d/e/1FAIpQLSekpYwGpckN-4Xmp9pgOzwcbaYT6FrC8B_oUaQhDGGm1kLLCQ/viewform">tutaj</a>,<br> 
             a nauczyć się nowych słów <a class="link" href="https://quizlet.com/ch/977935497/112-historia-kalendarza-adwentowego-flash-cards/">tutaj</a>.</p></div>
         
-    </section>
+    </section>`
     } if (numb == 7) {
         body.innerHTML = `    <header>
         <div class="buttonBoxFirst">
@@ -230,7 +230,7 @@ function render(numb) {
             Sprawdzić rozumienie tekstu można <a class="link" href="https://docs.google.com/forms/d/e/1FAIpQLSekpYwGpckN-4Xmp9pgOzwcbaYT6FrC8B_oUaQhDGGm1kLLCQ/viewform">tutaj</a>,<br> 
             a nauczyć się nowych słów <a class="link" href="https://quizlet.com/ch/977935497/112-historia-kalendarza-adwentowego-flash-cards/">tutaj</a>.</p></div>
         
-    </section>
+    </section>`
     } if (numb == 8) {
         body.innerHTML= `<header>
         <div class="buttonBoxFirst">
@@ -262,7 +262,7 @@ function render(numb) {
             Sprawdzić rozumienie tekstu można <a class="link" href="https://docs.google.com/forms/d/1bztVkEWeQyMmAW5CrSj02vCp7DvGEYhLBnhSPMq_lZc/edit">tutaj</a>,<br> 
             a nauczyć się nowych słów <a class="link" href="https://quizlet.com/978712898/312-flash-cards/?i=235rwg&x=1qqt">tutaj</a>.</p></div>
         <div class="dayIamge"><img class="imageFirst" src="./image/3Day.png" alt=""></div>
-    </section>   
+    </section> `  
     } if (numb == 9) {
         body.innerHTML= `<header>
         <div class="buttonBoxFirst">
